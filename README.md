@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehran-razavi&label=Profile%20views&color=blue&style=flat" alt="mehran-razavi" /> </p>
 
-- 🔭 I’m currently working on **talayto**<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5J__x57pQvNgyFLuqqEtVaf7qwny6-mQl5w&usqp=CAU' alt="coming soon" width="40" height="40"/>&nbsp;
+- 🔭 I’m currently working on **talayto**<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5J__x57pQvNgyFLuqqEtVaf7qwny6-mQl5w&usqp=CAU' alt="coming soon" width="80" height="40"/>&nbsp;
 
 - 📫 How to reach me **mehranrazavi061@gmail.com**
 
