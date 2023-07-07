@@ -1,6 +1,6 @@
-<h1><span style="color:#4E4FEB;font-size:27px">Hi there, I'm</span> <span style="color:#068FFF;">Mehran Razavi</span></h1>
+<h1>Hi there, I'm Mehran Razavi</h1>
 BackEnd Developer
-<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehran-razavi&label=Profile%20views&color=blue&style=flat" alt="mehran-razavi" /> </p>
 
 - 🔭 I’m currently working on **talayto**:gem: <span style="font-size:12px;color:lime;">coming son</span>
