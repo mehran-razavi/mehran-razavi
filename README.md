@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehran-razavi&label=Profile%20views&color=blue&style=flat" alt="mehran-razavi" /> </p>
 
-- 🔭 I’m currently working on **talayto** <p style="font-size:10px;font-weight:bold;rotate:-45deg">coming soon</p>
+- 🔭 I’m currently working on **talayto** <p>coming soon</p>
 
 - 📫 How to reach me **mehranrazavi061@gmail.com**
 
