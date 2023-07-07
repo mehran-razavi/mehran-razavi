@@ -1,4 +1,4 @@
-<h1>&nbsp<span style="color:#4E4FEB;font-size:27px">Hi there, I'm</span> <span style="color:#068FFF;">Mehran Razavi</span></h1>
+<h1><span style="color:#4E4FEB;font-size:27px">Hi there, I'm</span> <span style="color:#068FFF;">Mehran Razavi</span></h1>
 BackEnd Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehran-razavi&label=Profile%20views&color=blue&style=flat" alt="mehran-razavi" /> </p>
