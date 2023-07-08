@@ -16,6 +16,4 @@ BackEnd Developer
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 
 ### Connect with me:
-[![Linkedin](https://img.shields.io/badge/Linkedin-000?&logo=Linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/mehran-razavi/)
-
-[![gmail](https://img.shields.io/badge/Gmail-000?&logo=Gmail&logoColor=c71610)](mehranrazavi061@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?&logo=Linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/mehran-razavi/) [![gmail](https://img.shields.io/badge/Gmail-000?&logo=Gmail&logoColor=c71610)](mehranrazavi061@gmail.com)
