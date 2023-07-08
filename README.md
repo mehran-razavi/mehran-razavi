@@ -5,11 +5,6 @@ BackEnd Developer
 
 - 🔭 I’m currently working on **talayto**:gem: <span style="font-size:12px;color:lime;">coming son</span>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mehran-razavi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
-</p>
-
 ### Back-End Skills:
 
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
@@ -19,3 +14,8 @@ BackEnd Developer
 ### IDEs:
 
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+
+### Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/mehran-razavi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
+</p>
