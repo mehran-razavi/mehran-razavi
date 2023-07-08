@@ -17,4 +17,5 @@ BackEnd Developer
 
 ### Connect with me:
 [![Linkedin](https://img.shields.io/badge/Linkedin-000?&logo=Linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/mehran-razavi/)
-![gmail](https://img.shields.io/badge/Gmail-000?&logo=Gmail&logoColor=c71610): **mehranrazavi061@gmail.com**
+
+**mehranrazavi061@gmail.com**
