@@ -17,6 +17,3 @@ BackEnd Developer
 
 ### Connect with me:
 [![Node.js](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/mehran-razavi/)
-<p align="left">
-<a href="https://www.linkedin.com/in/mehran-razavi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
-</p>
