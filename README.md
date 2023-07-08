@@ -3,7 +3,7 @@ BackEnd Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehran-razavi&label=Profile%20views&color=blue&style=flat" alt="mehran-razavi" /> </p>
 
-- 🔭 I’m currently working on **talayto**:gem: <span style="font-size:12px;color:lime;">coming son</span>
+- 🔭 I’m currently working on **talayto**:gem:
 
 ### Back-End Skills:
 
@@ -16,4 +16,5 @@ BackEnd Developer
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 
 ### Connect with me:
-[![Node.js](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/mehran-razavi/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?&logo=Linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/mehran-razavi/)&#160
+[![gmail](https://img.shields.io/badge/Gmail-000?&logo=Gmail&logoColor=c71610)](mehranrazavi061@gmail.com)&#160
