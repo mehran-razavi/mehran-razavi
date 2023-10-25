@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=mehran-razavi&icon=3&color=12)](https://visitcount.itsvg.in)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehran-razavi&label=Profile%20views&color=blue&style=flat" alt="mehran-razavi" /> </p> -->
 
-- 🔭 I’m currently working on **talayto**:gem:
+- 🔭 I’m currently working on **metalk**:black_nib:
 
 ### Back-End Skills:
 
@@ -22,7 +22,4 @@
 
 **mehranrazavi061@gmail.com**
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehran-razavi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mehran-razavi&theme=dark&hide_border=true)<br/>
 
